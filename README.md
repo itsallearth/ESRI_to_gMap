@@ -11,7 +11,7 @@ Copy the ESRI_to_gMap.addin somewhere on your computer and double click it.  Thi
 ![alt text](http://itsallearth.com/images/ESRItoGM.png "ESRI toolbar diagram").
 
 
-The toolbar will look loike this: ![alt text](http://itsallearth.com/images/toolbar.JPG "ESRI toolbar").
+The toolbar will look like this:  ![alt text](http://itsallearth.com/images/toolbar.JPG "ESRI toolbar").
 
 Each button (except for the Google Search button) uses this function to capture the extent of the map and the center point in ArcMap:
 
@@ -86,7 +86,7 @@ Each button (except for the Google Search button) uses this function to capture 
 
 ```
 ## Usage Instructions
-This is where you lay out all the commands available or how you make your software do its magic. This can be CLI, REST, powershell commands, etc. Remember to use the backtick characters to highlight code `such as this` or create sections of code using three backticks in a row
+Use these tools to get more information of the location you are currently viewing in ArcMap.
 
 ## Future
 Look for more tools for this addin in the near future.
