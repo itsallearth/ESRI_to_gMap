@@ -10,7 +10,7 @@ Copy the ESRI_to_gMap.addin somewhere on your computer and double click it.  Thi
 
 The toolbar will look loike this: ![alt text](http://itsallearth.com/images/toolbar.JPG "ESRI toolbar").
 
-Each button (except for the Google Search button) uses this function 
+Each button (except for the Google Search button) uses this function to capture the extent of the map and the center point in ArcMap:
 
 ```def centerPoint():
 	mxd = arcpy.mapping.MapDocument("CURRENT")
@@ -81,17 +81,12 @@ Each button (except for the Google Search button) uses this function
 		return [pt1.X, pt1.Y, z, pt13.Y, metersl]
 		#return [pt1.X, pt1.Y, z, pt13.X]```
 
-to capture the extent of the map in ArcMap
-
-How do install your software to make it work? Do i just download the scripts? Do i download them from a central repository. This section should give readers a spoon-fed way of understanding how do i get to step 1. Make sure you recognize multiple deployment scenarios as well if it it integrates with things like Vagrant or Docker.
 
 ## Usage Instructions
 This is where you lay out all the commands available or how you make your software do its magic. This can be CLI, REST, powershell commands, etc. Remember to use the backtick characters to highlight code `such as this` or create sections of code using three backticks in a row
 ```
-to capture the extent of the map and to find the center point.
 
 ## Future
 Look for more tools for this addin in the near future.
-- different modes of transportation maybe...
 
 
