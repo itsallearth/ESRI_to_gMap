@@ -6,7 +6,10 @@ ESRI to Google Maps is an ArcMap AddIn.  This particular addin is written in Pyt
 Included in the ESRI_to_gMap.addin file
 
 ## Installation
-Copy the ESRI_to_gMap.addin somewhere on your computer and double click it.  This will add the addin to ArcMap.  You will see the toolbar when you click customize > toolbars: ![alt text](http://itsallearth.com/images/ESRItoGM.png "ESRI toolbar diagram").
+Copy the ESRI_to_gMap.addin somewhere on your computer and double click it.  This will add the addin to ArcMap.  You will see the toolbar when you click customize > toolbars: 
+
+![alt text](http://itsallearth.com/images/ESRItoGM.png "ESRI toolbar diagram").
+
 
 The toolbar will look loike this: ![alt text](http://itsallearth.com/images/toolbar.JPG "ESRI toolbar").
 
