@@ -7,7 +7,7 @@ Included in the ESRI_to_gMap.addin file
 
 ## Installation 
 
-Copy the ESRI_to_gMap.addin somewhere on your computer and double click it.  This will add the addin to ArcMap.  You will see the toolbar when you click customize > toolbars: 
+Copy the `ESRI_to_gMap.esriaddin` file somewhere on your computer and double click it.  This will add the addin to ArcMap.  When you open ArcMap and click customize > toolbars you will see the following: 
 
 ![alt text](http://itsallearth.com/images/ESRItoGM.png "ESRI toolbar diagram").
 
