@@ -84,10 +84,9 @@ Each button (except for the Google Search button) uses this function to capture 
 		return [pt1.X, pt1.Y, z, pt13.Y, metersl]
 		#return [pt1.X, pt1.Y, z, pt13.X]```
 
-
+```
 ## Usage Instructions
 This is where you lay out all the commands available or how you make your software do its magic. This can be CLI, REST, powershell commands, etc. Remember to use the backtick characters to highlight code `such as this` or create sections of code using three backticks in a row
-```
 
 ## Future
 Look for more tools for this addin in the near future.
