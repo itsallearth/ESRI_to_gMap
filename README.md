@@ -1,12 +1,17 @@
 # ESRI to Google Maps
-======================
+
 ESRI to Google Maps is an ArcMap AddIn.  This particular addin is written in Python and ArcPy.  It is designed to make the switch as quick and easy as aspossible. Switch form the map extent you are working form in ArcMap to the same extent of the in Google Maps. It's a one click action... Fast, clean and simple. 
 
 ## Description
 Included in the ESRI_to_gMap.addin file
 
 ## Installation
-Copy the ESRI_to_gMap.addin somewhere on your computer and double click it.  This will add the addin to ArcMap and you should see the toolbar in your 
+Copy the ESRI_to_gMap.addin somewhere on your computer and double click it.  This will add the addin to ArcMap.  You will see the toolbar when you click customize > toolbars: ![alt text](http://itsallearth.com/images/toolbar.JPG "ESRI toolbar diagram").
+
+The toolbar will look loike this: ![alt text](http://itsallearth.com/images/ESRItoGM.png "ESRI toolbar")
+
+Each button (except for the Google Search button) uses this function that captures the extent of the map in ArcMap
+
 How do install your software to make it work? Do i just download the scripts? Do i download them from a central repository. This section should give readers a spoon-fed way of understanding how do i get to step 1. Make sure you recognize multiple deployment scenarios as well if it it integrates with things like Vagrant or Docker.
 
 ## Usage Instructions
